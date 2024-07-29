@@ -10,7 +10,7 @@
 	
 	<Paths>
 		<SourceTextures>Conversion\Textures</SourceTextures>
-		<VirtualTextures>Dark_Iron_Dwarf\Public\Dark_Iron_Dwarf\Assets\VirtualTextures</VirtualTextures>
+		<VirtualTextures>Dark_Iron_Dwarves\Public\Dark_Iron_Dwarf\Assets\VirtualTextures</VirtualTextures>
 	</Paths>
 	
 	<Layers>
