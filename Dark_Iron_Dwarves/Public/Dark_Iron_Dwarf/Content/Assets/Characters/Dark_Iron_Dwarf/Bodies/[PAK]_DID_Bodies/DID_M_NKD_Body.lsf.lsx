@@ -445,14 +445,14 @@
 							<attribute id="ParameterName" type="FixedString" value="CancelMSK" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="ID" type="FixedString" value="38940a52-a31c-4488-aec3-4356934379e8" />
+							<attribute id="ID" type="FixedString" value="35fb84f8-7e6f-43f1-835e-2e11a95c112d" />
 						</node>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="False" />
 							<attribute id="ParameterName" type="FixedString" value="BaseColor_NonSkin" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="ID" type="FixedString" value="5b499071-5cd3-40c0-a8bb-d2addfe1d160" />
+							<attribute id="ID" type="FixedString" value="01c3d9cf-53cf-4452-9cdc-8ef42436577e" />
 						</node>
 						<node id="VirtualTextureParameters">
 							<attribute id="Enabled" type="bool" value="True" />
