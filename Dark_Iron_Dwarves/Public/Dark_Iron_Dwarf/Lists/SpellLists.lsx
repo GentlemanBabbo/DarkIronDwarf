@@ -3,16 +3,16 @@
     <version major="4" minor="3" revision="0" build="300"/>
     <region id="SpellLists">
         <node id="root">
-            <children>               
+            <children> 
+                <node id="SpellList">Spelllist
+                    <attribute id="Comment" type="LSString" value=""/> 
+                    <attribute id="Spells" type="LSString" value="Rush_IronboundBlitz_DID"/> the spells within the selector
+                    <attribute id="UUID" type="guid" value="a2aa1fde-dbe2-4346-bfa0-b80a978aa38a"/> the UUID, needs to be unique
+                </node>
                 <node id="SpellList">Spelllist
                     <attribute id="Comment" type="LSString" value="Dropkick"/> 
                     <attribute id="Spells" type="LSString" value="Target_IronboundPursuit_DID"/> the spells within the selector
                     <attribute id="UUID" type="guid" value="2b1526a8-b162-4eea-8b7c-713776c14c32"/> the UUID, needs to be unique
-                </node>
-                <node id="SpellList">Spelllist
-                    <attribute id="Comment" type="LSString" value=""/> 
-                    <attribute id="Spells" type="LSString" value=""/> the spells within the selector
-                    <attribute id="UUID" type="guid" value="a2aa1fde-dbe2-4346-bfa0-b80a978aa38a"/> the UUID, needs to be unique
                 </node>
             </children>
         </node>
