@@ -9,7 +9,7 @@
                   <attribute id="Name" type="LSString" value="Dark_Iron_Dwarf" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
                   <attribute id="PassivesAdded" type="LSString" value="Passives_Basic_DarkIronDwarves" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="SelectSkills(c95000ab-19a0-4cf0-85d6-6f8308340bdb,2)" />see below for explanation
+                  <attribute id="Selectors" type="LSString" value="SelectSkills(c95000ab-19a0-4cf0-85d6-6f8308340bdb,2);AddSpells(a2aa1fde-dbe2-4346-bfa0-b80a978aa38a,,,,AlwaysPrepared)" />see below for explanation
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="61cf8bd6-be35-4970-9ab6-254d6bbd92d8" /> Always use this one for races.lsx, says this progression node is for Main Race
                   <attribute id="UUID" type="guid" value="3843a569-4c44-467b-81f8-237d001c3127" />  this one must be unique
@@ -19,7 +19,7 @@
                   <attribute id="Name" type="LSString" value="Dark_Iron_Dwarf" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
                   <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="" /> this is a single spell being added
+                  <attribute id="Selectors" type="LSString" value="AddSpells(2b1526a8-b162-4eea-8b7c-713776c14c32,,,,AlwaysPrepared)" /> this is a single spell being added
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="61cf8bd6-be35-4970-9ab6-254d6bbd92d8" /> Always use this one for races.lsx, says this progression node is for Main Race
                   <attribute id="UUID" type="guid" value="57869b55-385f-46ed-92f6-106d18fef842" />  this one must be unique
