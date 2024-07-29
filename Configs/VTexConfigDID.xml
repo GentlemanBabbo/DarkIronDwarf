@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TileSet Version="2" Name="DarkIronDwarf">
+	<TileSetConfig>
+        <Compression>LZ4</Compression>
+        <OneFilePerGTex>false</OneFilePerGTex>
+        <BackfillPages>true</BackfillPages>
+        <DeduplicateTiles>true</DeduplicateTiles>
+        <ZeroBorders>false</ZeroBorders>
+	</TileSetConfig>
+	
+	<Paths>
+		<SourceTextures>Conversion\Textures</SourceTextures>
+		<VirtualTextures>Dark_Iron_Dwarf\Public\Dark_Iron_Dwarf\Assets\VirtualTextures</VirtualTextures>
+	</Paths>
+	
+	<Layers>
+		<Layer Name="Albedo" Type="R8G8B8A8_SRGB" />
+		<Layer Name="Normal" Type="X8Y8Z8W8" />
+		<Layer Name="Physical" Type="X8Y8Z8W8" />
+	</Layers>
+
+	<Textures>
+		<Texture Name="630e56be5b2843a583fb1c38edf8f9fc">
+			<Layer Name="Albedo" Source="DID_M_NKD_Body_A_CLEA.DDS" />
+			<Layer Name="Normal" Source="DID_M_NKD_Body_A_NM.DDS" />
+			<Layer Name="Physical" Source="DID_M_NKD_Body_A_HMVY.DDS" />
+		</Texture>
+	</Textures>
+</TileSet>
