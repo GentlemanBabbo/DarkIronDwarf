@@ -50,6 +50,10 @@
 							<attribute id="VisualResource" type="FixedString" value="3e729fcb-a49c-48e4-a946-c141965aa71e" />
 						</node>
 						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Beard" />
+							<attribute id="VisualResource" type="FixedString" value="4a2e83f3-6e6a-caf9-0d6d-4ff760be0d42" />
+						</node>
+						<node id="Slots">
 							<attribute id="Slot" type="FixedString" value="Hair" />
 							<attribute id="VisualResource" type="FixedString" value="c45c3764-c98e-21b4-e9c6-67633263757f" />
 						</node>
