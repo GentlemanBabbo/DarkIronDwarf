@@ -23,7 +23,7 @@
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
 					<attribute id="SkeletonResource" type="FixedString" value="" />
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
-					<attribute id="Slot" type="FixedString" value="DragonbornTop" />
+					<attribute id="Slot" type="FixedString" value="DragonbornChin" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dark_Iron_Dwarf/[PAK]_DID_LavaHair/HAIR_Helmet_A_DID_M_LavaDreads.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
