@@ -10,7 +10,7 @@
 					<attribute id="ID" type="FixedString" value="ed42cb6b-ebc6-4438-80de-aae53b1bf0cd" />
 					<attribute id="IKRigResourceID" type="FixedString" value="f45d73e2-c30a-82c0-2e4b-f02e907f9550" />
 					<attribute id="MirrorTableResourceID" type="FixedString" value="" />
-					<attribute id="Name" type="LSString" value="DID_F_Head_Base" />
+					<attribute id="Name" type="LSString" value="DID_F_Head_A_Base" />
 					<attribute id="PreviewAnimationResource" type="FixedString" value="" />
 					<attribute id="PreviewVisualResource" type="FixedString" value="" />
 					<attribute id="RagdollResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />

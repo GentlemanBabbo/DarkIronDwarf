@@ -17,12 +17,23 @@
 					<attribute id="VisualResource" type="guid" value="3e729fcb-a49c-48e4-a946-c141965aa71e"/>
 					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
 				</node>
+				<node id="CharacterCreationAppearanceVisual"> Dark Iron Dwarf M - B
+					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
+					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
+			                <attribute id="DisplayName" type="TranslatedString" handle="he77518e5b8444e5db02044c69e635d8daad0" version="1"/> 
+					<attribute id="IconIdOverride" type="FixedString" value=""/><!-- Matches the Map Key for the corresponding icon in ModName_Icons.lsx - I usually just take the hair's VisualResource UUID and stick a 0_Hair_ in front of it -->
+                    			<attribute id="RaceUUID" type="guid" value="bbcd4f04-af66-4427-98cc-fec6c1fd9d84"/>
+					<attribute id="SlotName" type="FixedString" value="Head"/>
+					<attribute id="UUID" type="guid" value="d615999b-096d-422f-967e-40de2a544299"/> <!--Unique UUID -->
+					<attribute id="VisualResource" type="guid" value="26689226-b17c-4b07-9d6b-26a9690e1e09"/>
+					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
+				</node>
 		<!--Female Dark Iron Dwarf Heads-->
 
 				<node id="CharacterCreationAppearanceVisual"> Dark Iron Dwarf F - A
 					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
-			                <attribute id="DisplayName" type="TranslatedString" handle="hc2d688985e7440cdb22ffeafc0ee9bf2babd" version="1"/> 
+			                <attribute id="DisplayName" type="TranslatedString" handle="h451acab63ed2416cac4e69cfdc624925ge0f" version="1"/> 
 					<attribute id="IconIdOverride" type="FixedString" value=""/><!-- Matches the Map Key for the corresponding icon in ModName_Icons.lsx - I usually just take the hair's VisualResource UUID and stick a 0_Hair_ in front of it -->
                     			<attribute id="RaceUUID" type="guid" value="bbcd4f04-af66-4427-98cc-fec6c1fd9d84"/>
 					<attribute id="SlotName" type="FixedString" value="Head"/>
