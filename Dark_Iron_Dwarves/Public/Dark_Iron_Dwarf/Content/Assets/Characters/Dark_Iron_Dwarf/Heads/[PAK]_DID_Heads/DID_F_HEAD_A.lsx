@@ -1984,7 +1984,7 @@
 							<attribute id="Object" type="FixedString" value="dd4d3b25-d89b-0e61-6b8c-3e9e9c71c0bb" />
 						</node>
 						<node id="Base" />
-<node id="Objects">
+						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="0e94ad48-6416-4fba-9b99-523b3884bf13" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh.0" />
@@ -2023,6 +2023,11 @@
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Scalp_Mesh.7" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="02a386a7-1014-5bf7-55ad-c124e84ef6ba" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_B.9REDCAP_M_NKD_Head_A_Brow_Mesh.7" />
 						</node>
 					</children>
 				</node>
