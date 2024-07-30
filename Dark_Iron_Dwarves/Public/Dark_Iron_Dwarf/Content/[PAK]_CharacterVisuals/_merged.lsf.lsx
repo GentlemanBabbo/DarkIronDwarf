@@ -50,8 +50,8 @@
 					</children>
 				</node>
 				<node id="Resource">
-					<attribute id="BaseVisual" type="FixedString" value="7f96a865-11e1-8ad2-16dc-9a66621fbf75" />
-					<attribute id="BodySetVisual" type="FixedString" value="47045754-f3ea-491c-9b8e-cbe31bc2d45d" />
+					<attribute id="BaseVisual" type="FixedString" value="c2a9e6ef-064b-42f4-9fe0-8999a0d884d3" />
+					<attribute id="BodySetVisual" type="FixedString" value="4e927549-3196-45de-b5b5-e9d75b18d160" />
 					<attribute id="ID" type="FixedString" value="d9feef37-c21f-42aa-a033-13928e8b5142" />
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="BASE_Main_Female_DarkIronDwarf" />					
@@ -86,11 +86,15 @@
 						</node>
 						<node id="Slots">
 							<attribute id="Slot" type="FixedString" value="Head" />
-							<attribute id="VisualResource" type="FixedString" value="555b1e26-9a79-c11b-134d-a557b317bd93" />
+							<attribute id="VisualResource" type="FixedString" value="7286b4bb-81ba-4ffe-93ad-719135ec68d0" />
 						</node>
 						<node id="Slots">
 							<attribute id="Slot" type="FixedString" value="Hair" />
 							<attribute id="VisualResource" type="FixedString" value="4ba9f25a-0270-1b1b-89da-bca465851b17" />
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Private Parts" />
+							<attribute id="VisualResource" type="FixedString" value="01c19fd4-c17a-f603-e6d8-99f4a6da2841" />
 						</node>
 					</children>
 				</node>
