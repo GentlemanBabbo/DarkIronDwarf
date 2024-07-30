@@ -76,7 +76,7 @@
 					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
 				</node>
 		<!--Lava Hair-->
-				<node id="CharacterCreationAppearanceVisual"> Dark Iron Dwarf Beard - B
+				<node id="CharacterCreationAppearanceVisual"> Dark Iron Dwarf lava hair - A
 					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
 			                <attribute id="DisplayName" type="TranslatedString" handle="" version="1"/> 
@@ -84,7 +84,7 @@
                     			<attribute id="RaceUUID" type="guid" value="bbcd4f04-af66-4427-98cc-fec6c1fd9d84"/>
 					<attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
 					<attribute id="UUID" type="guid" value="09a13ab7-f339-42c8-8a38-2b0a1a1321a0"/> <!--Unique UUID -->
-					<attribute id="VisualResource" type="guid" value="ea2d248e-f316-49b0-ada8-5fd72f623d2e"/>
+					<attribute id="VisualResource" type="guid" value="33d6cc72-4810-4bdc-b0fe-652eb354587f"/>
 					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
 				</node>
         <!--Genitals-->

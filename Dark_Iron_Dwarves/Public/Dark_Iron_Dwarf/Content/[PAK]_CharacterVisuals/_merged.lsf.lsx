@@ -54,6 +54,10 @@
 							<attribute id="VisualResource" type="FixedString" value="8ebc341d-3d78-4776-b759-72014dc7886c" />
 						</node>
 						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="DragonbornTop" />
+							<attribute id="VisualResource" type="FixedString" value="33d6cc72-4810-4bdc-b0fe-652eb354587f" />
+						</node>
+						<node id="Slots">
 							<attribute id="Slot" type="FixedString" value="Hair" />
 							<attribute id="VisualResource" type="FixedString" value="c45c3764-c98e-21b4-e9c6-67633263757f" />
 						</node>
