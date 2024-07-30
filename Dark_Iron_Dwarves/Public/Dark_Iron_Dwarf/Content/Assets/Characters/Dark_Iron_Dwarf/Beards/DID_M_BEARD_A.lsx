@@ -23,7 +23,7 @@
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
 					<attribute id="SkeletonResource" type="FixedString" value="7f882972-b3db-46c9-e25b-d1bb03fb4992" />
 					<attribute id="SkeletonSlot" type="FixedString" value="1" />
-					<attribute id="Slot" type="FixedString" value="Unassigned" />
+					<attribute id="Slot" type="FixedString" value="Beard" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dark_Iron_Dwarf/[PAK]_DID_Beards/DID_M_NKD_Beard_A.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
