@@ -25,9 +25,9 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
 					<attribute id="Slot" type="FixedString" value="DragonbornTop" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dark_Iron_Dwarf/[PAK]_DID_LavaHair/HAIR_Helmet_A_DID_M_LavaDreads.GR2.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dark_Iron_Dwarf/[PAK]_DID_LavaHair/HAIR_Helmet_A_DID_M_LavaDreads.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Dark_Iron_Dwarf/[PAK]_DID_LavaHair/HAIR_Helmet_A_DID_M_LavaDreads.GR2.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Dark_Iron_Dwarf/[PAK]_DID_LavaHair/HAIR_Helmet_A_DID_M_LavaDreads.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725060" />
 					<children>
 						<node id="Base" />
