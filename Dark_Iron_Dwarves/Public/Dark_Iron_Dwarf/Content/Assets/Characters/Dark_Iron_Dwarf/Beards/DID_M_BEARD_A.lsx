@@ -13,11 +13,11 @@
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="" />
 					<attribute id="HairType" type="uint8" value="0" />
-					<attribute id="ID" type="FixedString" value="377563c2-9fea-4aa7-839f-279f26085f26" />
+					<attribute id="ID" type="FixedString" value="8ebc341d-3d78-4776-b759-72014dc7886c" />
 					<attribute id="Initialized" type="bool" value="True" />
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="MaterialType" type="uint8" value="0" />
-					<attribute id="Name" type="LSString" value="HOB_M_Hair_A" />
+					<attribute id="Name" type="LSString" value="DID_M_Beard_A" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="True" />
 					<attribute id="RemapperSlotId" type="FixedString" value="" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
@@ -25,15 +25,15 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="1" />
 					<attribute id="Slot" type="FixedString" value="Unassigned" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Dark_Iron_Dwarves/Generated/Public/Dark_Iron_Dwarf/[PAK]_DID_Beards/DID_M_NKD_Beard_A.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dark_Iron_Dwarf/[PAK]_DID_Beards/DID_M_NKD_Beard_A.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
-					<attribute id="Template" type="FixedString" value="Dark_Iron_Dwarves/Generated/Public/Dark_Iron_Dwarf/[PAK]_DID_Beards/DID_M_NKD_Beard_A.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Dark_Iron_Dwarf/[PAK]_DID_Beards/DID_M_NKD_Beard_A.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725060" />
 					<children>
 						<node id="Base" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="c9ed1c60-fd63-7589-1aca-d8646721b531" />
+							<attribute id="MaterialID" type="FixedString" value="f4d7213e-8e22-b480-d12c-36534e253b24" />
 							<attribute id="ObjectID" type="FixedString" value="DID_M_NKD_Beard_A.1BEARD_DID_M_Medium_A_Mesh.0" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
