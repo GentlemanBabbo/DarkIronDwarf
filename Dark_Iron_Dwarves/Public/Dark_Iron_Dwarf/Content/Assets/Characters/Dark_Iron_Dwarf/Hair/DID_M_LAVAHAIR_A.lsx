@@ -13,7 +13,7 @@
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="" />
 					<attribute id="HairType" type="uint8" value="0" />
-					<attribute id="ID" type="FixedString" value="33d6cc72-4810-4bdc-b0fe-652eb354587f" />
+					<attribute id="ID" type="FixedString" value="ec80d15e-d6d5-4d27-9c5d-04824cc73bc1" />
 					<attribute id="Initialized" type="bool" value="True" />
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="MaterialType" type="uint8" value="0" />
@@ -23,7 +23,7 @@
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
 					<attribute id="SkeletonResource" type="FixedString" value="" />
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
-					<attribute id="Slot" type="FixedString" value="DragonbornChin" />
+					<attribute id="Slot" type="FixedString" value="DragonbornTop" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/Dark_Iron_Dwarf/[PAK]_DID_LavaHair/HAIR_Helmet_A_DID_M_LavaDreads.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="False" />

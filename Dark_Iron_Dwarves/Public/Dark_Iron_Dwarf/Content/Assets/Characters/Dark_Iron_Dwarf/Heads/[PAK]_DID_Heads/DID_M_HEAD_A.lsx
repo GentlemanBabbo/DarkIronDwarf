@@ -2378,7 +2378,7 @@
 						<node id="Base" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="f4d7213e-8e22-b480-d12c-36534e253b24" />
+							<attribute id="MaterialID" type="FixedString" value="f10434eb-525b-f3b7-bbc2-88f11c560b3b" />
 							<attribute id="ObjectID" type="FixedString" value="DID_M_NKD_Beard_A.1BEARD_DID_M_Medium_A_Mesh.0" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
