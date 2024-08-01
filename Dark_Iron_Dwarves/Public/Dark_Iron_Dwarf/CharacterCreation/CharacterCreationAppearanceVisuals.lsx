@@ -86,6 +86,17 @@
 					<attribute id="VisualResource" type="guid" value="4a5d28a0-947d-4f19-8848-0e4dbfe5f4da"/>
 					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
 				</node>
+				<node id="CharacterCreationAppearanceVisual"> Dark Iron Dwarf Beard - D
+					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
+					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
+			                <attribute id="DisplayName" type="TranslatedString" handle="hb13d267fc15547f092da3187ce7d35ccb438" version="1"/> 
+					<attribute id="IconIdOverride" type="FixedString" value=""/><!-- Matches the Map Key for the corresponding icon in ModName_Icons.lsx - I usually just take the hair's VisualResource UUID and stick a 0_Hair_ in front of it -->
+                    			<attribute id="RaceUUID" type="guid" value="bbcd4f04-af66-4427-98cc-fec6c1fd9d84"/>
+					<attribute id="SlotName" type="FixedString" value="Beard"/>
+					<attribute id="UUID" type="guid" value="e7930c30-ddff-4c59-8777-1cb600b7894b"/> <!--Unique UUID -->
+					<attribute id="VisualResource" type="guid" value="c78a6361-3cf6-47f7-9482-56f699bb977f"/>
+					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
+				</node>
 		<!--Lava Hair-->
 				<node id="CharacterCreationAppearanceVisual"> Dark Iron Dwarf lava hair - no option
 					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
