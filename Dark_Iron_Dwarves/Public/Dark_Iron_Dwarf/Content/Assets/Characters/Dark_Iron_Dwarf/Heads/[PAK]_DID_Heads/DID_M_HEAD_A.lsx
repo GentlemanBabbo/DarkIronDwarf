@@ -2455,13 +2455,6 @@
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="ae575ee5-5558-95bf-d7da-285c04942994" />
-							<attribute id="ObjectID" type="FixedString" value="DID_M_NKD_Beard_C.BEARD_HUM_M_Long_E_Accessories_Mesh.1" />
-							<attribute id="Physics" type="FixedString" value="" />
-							<attribute id="Slot" type="FixedString" value="" />
-						</node>
 					</children>
 				</node>
 			</children>
