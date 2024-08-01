@@ -93,7 +93,7 @@
 			                <attribute id="DisplayName" type="TranslatedString" handle="" version="1"/> 
 					<attribute id="IconIdOverride" type="FixedString" value=""/><!-- Matches the Map Key for the corresponding icon in ModName_Icons.lsx - I usually just take the hair's VisualResource UUID and stick a 0_Hair_ in front of it -->
                     			<attribute id="RaceUUID" type="guid" value="bbcd4f04-af66-4427-98cc-fec6c1fd9d84"/>
-					<attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
+					<attribute id="SlotName" type="FixedString" value="Horns"/>
 					<attribute id="UUID" type="guid" value="06994968-f886-4165-9269-a5013269d1aa"/> <!--Unique UUID -->
 					<attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
 					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
@@ -104,7 +104,7 @@
 			                <attribute id="DisplayName" type="TranslatedString" handle="h25a048847ed44c0da506ca573c7ed134077f" version="1"/> 
 					<attribute id="IconIdOverride" type="FixedString" value=""/><!-- Matches the Map Key for the corresponding icon in ModName_Icons.lsx - I usually just take the hair's VisualResource UUID and stick a 0_Hair_ in front of it -->
                     			<attribute id="RaceUUID" type="guid" value="bbcd4f04-af66-4427-98cc-fec6c1fd9d84"/>
-					<attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
+					<attribute id="SlotName" type="FixedString" value="Horns"/>
 					<attribute id="UUID" type="guid" value="21dbb911-ded1-4577-ae59-56f4a1d613c2"/> <!--Unique UUID -->
 					<attribute id="VisualResource" type="guid" value="ec80d15e-d6d5-4d27-9c5d-04824cc73bc1"/>
 					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->

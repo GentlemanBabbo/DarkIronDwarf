@@ -2363,7 +2363,7 @@
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="MaterialType" type="uint8" value="0" />
 					<attribute id="Name" type="LSString" value="DID_M_Beard_A" />
-					<attribute id="NeedsSkeletonRemap" type="bool" value="True" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="Radius" type="float" value="0.2880241" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
 					<attribute id="SkeletonResource" type="FixedString" value="3e6dba32-dbab-5666-2720-0e2f999a753b" />
@@ -2399,7 +2399,7 @@
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="MaterialType" type="uint8" value="0" />
 					<attribute id="Name" type="LSString" value="DID_M_Beard_B" />
-					<attribute id="NeedsSkeletonRemap" type="bool" value="True" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="Radius" type="float" value="0.2880241" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
 					<attribute id="SkeletonResource" type="FixedString" value="3e6dba32-dbab-5666-2720-0e2f999a753b" />
