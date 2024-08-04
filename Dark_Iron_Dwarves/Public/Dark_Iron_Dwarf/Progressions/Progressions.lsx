@@ -7,7 +7,7 @@
         <node id="Progression">
                   <attribute id="Level" type="uint8" value="1" /> which level the progression is for
                   <attribute id="Name" type="LSString" value="Dark_Iron_Dwarf" /> just an internal name
-                  <attribute id="Boosts" type="LSString" value="ActionResource(Movement,9,0)" /> 
+                  <attribute id="Boosts" type="LSString" value="" /> 
                   <attribute id="PassivesAdded" type="LSString" value="Passives_Basic_DarkIronDwarves;Dwarf_DwarvenCombatTraining;Passive_DarkIronResilience;Passive_DungeonDelver" /> passives from stats folder here
                   <attribute id="Selectors" type="LSString" value="SelectSkills(c95000ab-19a0-4cf0-85d6-6f8308340bdb,2)" />see below for explanation
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
