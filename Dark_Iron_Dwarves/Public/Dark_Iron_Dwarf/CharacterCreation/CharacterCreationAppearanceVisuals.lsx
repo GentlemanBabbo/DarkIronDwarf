@@ -39,6 +39,17 @@
 					<attribute id="VisualResource" type="guid" value="e839e3f5-f076-449f-ab95-2cf3c523aa85"/>
 					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
 				</node>
+				<node id="CharacterCreationAppearanceVisual"> Dark Iron Dwarf M - D
+					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
+					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
+			                <attribute id="DisplayName" type="TranslatedString" handle="hbb85eda364264a0493f853e913e46f894g54" version="1"/> 
+					<attribute id="IconIdOverride" type="FixedString" value=""/><!-- Matches the Map Key for the corresponding icon in ModName_Icons.lsx - I usually just take the hair's VisualResource UUID and stick a 0_Hair_ in front of it -->
+                    			<attribute id="RaceUUID" type="guid" value="bbcd4f04-af66-4427-98cc-fec6c1fd9d84"/>
+					<attribute id="SlotName" type="FixedString" value="Head"/>
+					<attribute id="UUID" type="guid" value="ed2cd612-caab-421a-a446-49deab69698b"/> <!--Unique UUID -->
+					<attribute id="VisualResource" type="guid" value="9ca90430-fa4d-413a-9a9c-400d38ace8f6"/>
+					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
+				</node>
 		<!--Female Dark Iron Dwarf Heads-->
 
 				<node id="CharacterCreationAppearanceVisual"> Dark Iron Dwarf F - A
