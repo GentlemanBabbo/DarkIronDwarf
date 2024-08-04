@@ -14,6 +14,18 @@
             <attribute id="RaceSoundSwitch" type="FixedString" value="Dwarf" />           sound it makes when you select the race
             <attribute id="UUID" type="guid" value="bbcd4f04-af66-4427-98cc-fec6c1fd9d84" /> Race UUID, keep this for adding hairs etc
                 <children>
+                       <node id="Tags">
+                            <attribute id="Object" type="guid" value="486a2562-31ae-437b-bf63-30393e18cbdd"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="50e7beca-4e90-43cd-b7c5-c235e236077f"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="60f6b464-752f-4970-a855-f729565b5e07"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="78adf3cd-4741-47a8-94f6-f3d322432591"/>
+                        </node>
 					<!--Astra Skin Colors-->
                         <node id="SkinColors">
                             <attribute id="Object" type="guid" value="e4dea5e3-017f-4ce8-9212-92e4e75de582" />

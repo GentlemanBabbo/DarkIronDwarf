@@ -8,20 +8,20 @@
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
-					<attribute id="BoundsMax" type="fvec3" value="0.116603665 2.221769 0.13287266" />
-					<attribute id="BoundsMin" type="fvec3" value="-0.11731623 1.7970554 -0.1336706" />
+					<attribute id="BoundsMax" type="fvec3" value="0.10382268 1.5502251 0.27350402" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.10399802 1.1277235 -0.13749847" />
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
-					<attribute id="HairPresetResourceId" type="FixedString" value="" />
-					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="198a72bd-362b-8878-f9c3-13048a2dfc43" />
+					<attribute id="HairType" type="uint8" value="1" />
 					<attribute id="ID" type="FixedString" value="ec80d15e-d6d5-4d27-9c5d-04824cc73bc1" />
 					<attribute id="Initialized" type="bool" value="True" />
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="MaterialType" type="uint8" value="0" />
 					<attribute id="Name" type="LSString" value="DID_M_LavaHair_A" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="True" />
-					<attribute id="Radius" type="float" value="0.2880241" />
-					<attribute id="ScalpMaterialId" type="FixedString" value="" />
-					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="16ae4578-0214-9b3a-6627-c1c9be9272b3" />
+					<attribute id="SkeletonResource" type="FixedString" value="3f21573b-ea69-5ef3-c018-9f2d4e1df8d6" />
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
 					<attribute id="Slot" type="FixedString" value="Horns" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
@@ -34,16 +34,14 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
                             <attribute id="MaterialID" type="FixedString" value="c47fba68-dbd5-a405-6535-2155ff08ba6f" />
-							<attribute id="ObjectID" type="FixedString" value="HOB_M_Hair_A.HAIR_Helmet_C_HUM_F_Dreads_Long_B_Mesh.0" />
+							<attribute id="ObjectID" type="FixedString" value="HOB_M_Hair_A.HAIR_DWR_M_Braids_Long_B_Spring_Mesh.0" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-                            <attribute id="MaterialID" type="FixedString" value="c47fba68-dbd5-a405-6535-2155ff08ba6f" />
-							<attribute id="ObjectID" type="FixedString" value="HOB_M_Hair_A.HAIR_Helmet_C_HUM_F_Dreads_Long_B_Mesh.1" />
-							<attribute id="Physics" type="FixedString" value="" />
-							<attribute id="Slot" type="FixedString" value="" />
+							<attribute id="MaterialID" type="FixedString" value="656fe152-29cf-3404-e7cc-d1760546a004" />
+							<attribute id="ObjectID" type="FixedString" value="HOB_M_Hair_A.HAIR_DWR_M_Braids_Long_B_Accessories_Mesh.1" />
 						</node>
 					</children>
 				</node>
