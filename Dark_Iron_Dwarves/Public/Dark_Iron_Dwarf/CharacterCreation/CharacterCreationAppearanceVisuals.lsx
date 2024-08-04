@@ -53,7 +53,7 @@
 					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
 				</node>
 		<!--Beards-->
-				<node id="CharacterCreationAppearanceVisual"> Dark Iron Dwarf Beard - A
+				<node id="CharacterCreationAppearanceVisual"> Dark Iron Dwarf Beard - Orpheus
 					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
 			                <attribute id="DisplayName" type="TranslatedString" handle="hc38aef1ad6cd47b7892d177a711d6e02258g" version="1"/> 
@@ -64,7 +64,7 @@
 					<attribute id="VisualResource" type="guid" value="061bf3d6-10a4-7772-7bd2-f0008850a73f"/>
 					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
 				</node>
-				<node id="CharacterCreationAppearanceVisual"> Dark Iron Dwarf Beard - B
+				<node id="CharacterCreationAppearanceVisual"> Dark Iron Dwarf Beard - A
 					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
 			                <attribute id="DisplayName" type="TranslatedString" handle="h36f464fa50494bd798b91d65fb63ee876e29" version="1"/> 
@@ -75,7 +75,7 @@
 					<attribute id="VisualResource" type="guid" value="e7d36f1b-939f-4bb1-b24d-4b87ebdddb54"/>
 					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
 				</node>
-				<node id="CharacterCreationAppearanceVisual"> Dark Iron Dwarf Beard - C
+				<node id="CharacterCreationAppearanceVisual"> Dark Iron Dwarf Beard - B
 					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
 			                <attribute id="DisplayName" type="TranslatedString" handle="ha88c54c8fd8d4113b9e099c74f2bb476898b" version="1"/> 
@@ -86,7 +86,7 @@
 					<attribute id="VisualResource" type="guid" value="4a5d28a0-947d-4f19-8848-0e4dbfe5f4da"/>
 					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
 				</node>
-				<node id="CharacterCreationAppearanceVisual"> Dark Iron Dwarf Beard - D
+				<node id="CharacterCreationAppearanceVisual"> Dark Iron Dwarf Beard - C
 					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
 			                <attribute id="DisplayName" type="TranslatedString" handle="hb13d267fc15547f092da3187ce7d35ccb438" version="1"/> 
@@ -95,6 +95,17 @@
 					<attribute id="SlotName" type="FixedString" value="Beard"/>
 					<attribute id="UUID" type="guid" value="e7930c30-ddff-4c59-8777-1cb600b7894b"/> <!--Unique UUID -->
 					<attribute id="VisualResource" type="guid" value="c78a6361-3cf6-47f7-9482-56f699bb977f"/>
+					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
+				</node>
+				<node id="CharacterCreationAppearanceVisual"> Dark Iron Dwarf Beard - D
+					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
+					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
+			                <attribute id="DisplayName" type="TranslatedString" handle="hcde63486gafd8g42b1g9c09g25eee5fd64b4" version="1"/> 
+					<attribute id="IconIdOverride" type="FixedString" value=""/><!-- Matches the Map Key for the corresponding icon in ModName_Icons.lsx - I usually just take the hair's VisualResource UUID and stick a 0_Hair_ in front of it -->
+                    			<attribute id="RaceUUID" type="guid" value="bbcd4f04-af66-4427-98cc-fec6c1fd9d84"/>
+					<attribute id="SlotName" type="FixedString" value="Beard"/>
+					<attribute id="UUID" type="guid" value="43ec6b9a-8db0-4cf4-960e-3a5f3a88e0d9"/> <!--Unique UUID -->
+					<attribute id="VisualResource" type="guid" value="5824799c-787d-4805-aeeb-bdba5e45ed8b"/>
 					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
 				</node>
 		<!--Lava Hair-->
