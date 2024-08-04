@@ -43,6 +43,14 @@
 	<content contentuid="haf5623b5drirebykek5gf247jh9525422r03" version="1">Crash into your target with a mighty dropkick, potentially knocking them prone.</content>	
 	<content contentuid="hcf4611e1geb94g4ec5ga3f1jk9825402f02a" version="1">Ironbound Blitz</content>
 	<content contentuid="h55449644g27ceg4483g8ccbg9fsdcc033a37" version="1">Dash across the landscape, leveling all in your path.</content>	
+	<content contentuid="h36884459g799ag4c3egaaf4gf882cd43c5c6" version="1">Dark Iron Resilience</content>
+	<content contentuid="hd719b20agccdcg4b1dgb00dg7d7504d75b0a" version="1">The fire of the mountain burns within your chest. You are resistant to Fire damage.</content>	
+	<content contentuid="hbed97d83ga84bg41d6ga59eg3619ccc64e7f" version="1">Dungeon Delver</content>
+	<content contentuid="h1877a367g8163g4dfbg8ef5ga5e13aac1ac6" version="1">Despite your size, your maneuverability is unmatched in various settings. You gain an increase to movement speed.</content>
+	<content contentuid="hc4410759g17b0g461ega816gbb28a2e1a260" version="1">Fireblood</content>
+	<content contentuid="hcfff3066gce92g4f40g983bgcaf1d3392b8a" version="1">Cleanse your blood by bringing yourself to a boil. Your body erupts in flames, removing Poison and Diseases and igniting you.</content>
+	<content contentuid="h0b8b9a98g4c43g4199g894dg83c4082c2470" version="1">Forged in Flame</content>
+	<content contentuid="h9f07aa44g1646g43f6g8636gf1f1047238e7" version="1">Tempered within the core of the earth, you are immune to lava surfaces. Your comfortability in heat is so great, that lava surfaces heal you.</content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
@@ -53,4 +61,41 @@
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="h1d33a8g298ad3f045d914f3g8791gagdab3d" version="1">HBGBL Harrowed 01</content>
+	<content contentuid="ha1078237g81g31cd4e303eg2dea6aedf5bcb" version="1">HBGBL Harrowed 02</content>
+	<content contentuid="h5abg3c579g5d7b4ea0302696cbc54215a3d8" version="1">HBGBL Harrowed 03</content>
+	<content contentuid="h4g454471gff1343df7cca7768a36e30f6c92" version="1">HBGBL Harrowed 04</content>
+	<content contentuid="h88257118506b733g9cdfbgef443b6ba918f0" version="1">HBGBL Harrowed 05</content>
+	<content contentuid="hab401eb5g804f3c909e52ae0ffb046cd605f" version="1">HBGBL Harrowed 06</content>
+	<content contentuid="h9beb716da891ac3gc5gca46d66afdg9ecd84" version="1">HBGBL Harrowed 07</content>
+	<content contentuid="h1b1cfad9971edcfd53816bce0g37gb3fdcd3" version="1">HBGBL Harrowed 08</content>
+	<content contentuid="h7b30702b18a465bcd71c82f265aa5250aaed" version="1">HBGBL Harrowed 09</content>
+	<content contentuid="hd2a6eeb0144ed543g18c48afb305a94732ed" version="1">HBGBL Harrowed 10</content>
+	<content contentuid="h17b2f3ce7g17e374d723398a8g36851c07f6" version="1">HBGBL Harrowed 11</content>
+	<content contentuid="hd864262836453f005ef85631605b9986734e" version="1">HBGBL Harrowed 12</content>
+	<content contentuid="hef3297c4bdg67ba968fg754f620d9df9e232" version="1">HBGBL Harrowed 13</content>
+	<content contentuid="h38f70612ba3985a6e968294g4408b995ccec" version="1">HBGBL Harrowed 14</content>
+	<content contentuid="ha7gb4b5134a11c03f0fa27935g71a328g49b" version="1">HBGBL Harrowed 15</content>
+	<content contentuid="h516942eba0777fgf76729ac576f6eg514ddf" version="1">HBGBL Harrowed 16</content>
+	<content contentuid="hf3ed21ad9gbe3546e6g81a9daf7e7122e3eg" version="1">HBGBL Harrowed 17</content>
+	<content contentuid="hd7b7d04cf1g41g59719ce52e7fg4d8d49af8" version="1">HBGBL Silvered 01</content>
+	<content contentuid="h94477c8fb6a830d5ee0185213b7218bgg446" version="1">HBGBL Silvered 02</content>
+	<content contentuid="h51981a94g645cd9dgd4fe4ab914c9044g368" version="1">HBGBL Silvered 03</content>
+	<content contentuid="h60ga45dg1343f81a3e07gfcf828b30ae0266" version="1">HBGBL Silvered 04</content>
+	<content contentuid="h7a948dca45f2b33a3826707560a0b09a8986" version="1">HBGBL Silvered 05</content>
+	<content contentuid="h944f834e70816078gg7528aa6976efc27dg7" version="1">HBGBL Silvered 06</content>
+	<content contentuid="ha7e14735gea4695d358beb0dceg861e3598c" version="1">HBGBL Silvered 07</content>
+	<content contentuid="h1cad848c02bc88051e0061f2da7db555d1g3" version="1">HBGBL Silvered 08</content>
+	<content contentuid="h8e94d6gfe58f5c674654c47840505f67348c" version="1">HBGBL Silvered 09</content>
+	<content contentuid="hb8629f9e5b9fd671f7ed20cce67964de9b49" version="1">HBGBL Silvered 10</content>
+	<content contentuid="h1907cb04b770b499db85gb8556ae0169e8af" version="1">HBGBL Silvered 11</content>
+	<content contentuid="hagabff8f7f54762718c475g65df7baa146b4" version="1">HBGBL Silvered 12</content>
+	<content contentuid="hdad9g28485c0f26d8362b2e65fegc9a88408" version="1">HBGBL Silvered 13</content>
+	<content contentuid="h6agf8818bad4dcdf1a694gbd37a8787e2e21" version="1">HBGBL Silvered 14</content>
+	<content contentuid="ha76428cac1051adc2e12b50g447a89fb8122" version="1">HBGBL Silvered 15</content>
+	<content contentuid="h8e701aae2e37719cbg757cbef0f8ab6b03da" version="1">HBGBL Silvered 16</content>
+	<content contentuid="h76b3240903d4df5ca7334f9da65g35c301eb" version="1">HBGBL Silvered 17</content>
 </contentList>

@@ -6,6 +6,16 @@
             <children> 
                 <node id="SpellList">Spelllist
                     <attribute id="Comment" type="LSString" value=""/> 
+                    <attribute id="Spells" type="LSString" value="Shout_Fireblood"/> the spells within the selector
+                    <attribute id="UUID" type="guid" value="fbe7c9ca-95e0-4934-82b1-2817b7b33300"/> the UUID, needs to be unique
+                </node>
+                <node id="SpellList">Spelllist
+                    <attribute id="Comment" type="LSString" value=""/> 
+                    <attribute id="Spells" type="LSString" value="Shout_DIDFireShield"/> the spells within the selector
+                    <attribute id="UUID" type="guid" value="55c3e9ad-1c2e-4d15-9965-24e0db03df2c"/> the UUID, needs to be unique
+                </node>
+                <node id="SpellList">Spelllist
+                    <attribute id="Comment" type="LSString" value=""/> 
                     <attribute id="Spells" type="LSString" value="Rush_IronboundBlitz_DID"/> the spells within the selector
                     <attribute id="UUID" type="guid" value="a2aa1fde-dbe2-4346-bfa0-b80a978aa38a"/> the UUID, needs to be unique
                 </node>

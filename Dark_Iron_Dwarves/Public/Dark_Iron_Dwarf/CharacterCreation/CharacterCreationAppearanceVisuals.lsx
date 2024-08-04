@@ -98,6 +98,7 @@
 					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
 				</node>
 		<!--Lava Hair-->
+				<!--male-->
 				<node id="CharacterCreationAppearanceVisual"> Dark Iron Dwarf lava hair - no option
 					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
@@ -120,6 +121,18 @@
 					<attribute id="VisualResource" type="guid" value="ec80d15e-d6d5-4d27-9c5d-04824cc73bc1"/>
 					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
 				</node>
+				<!--female-->
+				<node id="CharacterCreationAppearanceVisual"> Dark Iron Dwarf lava hair - A
+					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
+					<attribute id="BodyType" type="uint8" value="1"/> <!--0 = Masc 1 = Fem -->
+			                <attribute id="DisplayName" type="TranslatedString" handle="h25a048847ed44c0da506ca573c7ed134077f" version="1"/> 
+					<attribute id="IconIdOverride" type="FixedString" value=""/><!-- Matches the Map Key for the corresponding icon in ModName_Icons.lsx - I usually just take the hair's VisualResource UUID and stick a 0_Hair_ in front of it -->
+                    			<attribute id="RaceUUID" type="guid" value="bbcd4f04-af66-4427-98cc-fec6c1fd9d84"/>
+					<attribute id="SlotName" type="FixedString" value="Horns"/>
+					<attribute id="UUID" type="guid" value="1a12cf0d-f24d-4b63-8a5d-2013c1629c0a"/> <!--Unique UUID -->
+					<attribute id="VisualResource" type="guid" value="ec80d15e-d6d5-4d27-9c5d-04824cc73bc1"/>
+					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
+				</node>				
         <!--Genitals-->
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>

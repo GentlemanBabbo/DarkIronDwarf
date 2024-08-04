@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="CharacterCreationSkinColors">
+    <node id="root">
+      <children>
+        <node id="CharacterCreationSkinColor"> 
+                    <attribute id="DisplayName" type="TranslatedString" handle="h1d33a8g298ad3f045d914f3g8791gagdab3d" version="1" />
+                    <attribute id="MaterialPresetUUID" type="guid" value="85971c40-9030-993b-a757-b847f8c89719" />
+                    <attribute id="Name" type="FixedString" value="HBGBL_Harrowed_00" /> 
+                    <attribute id="UIColor" type="LSString" value="#FF685760" /> 
+                    <attribute id="UUID" type="guid" value="e4dea5e3-017f-4ce8-9212-92e4e75de582" />
+                </node>
+        <node id="CharacterCreationSkinColor"> 
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha1078237g81g31cd4e303eg2dea6aedf5bcb" version="1" />
+                    <attribute id="MaterialPresetUUID" type="guid" value="2d28ebb8-f6b4-a9dd-915d-d4133d1d723a" />
+                    <attribute id="Name" type="FixedString" value="HBGBL_Harrowed_00" /> 
+                    <attribute id="UIColor" type="LSString" value="#FF5D4F5A" /> 
+                    <attribute id="UUID" type="guid" value="d4b8e7fe-a5d9-4729-b840-752ad0838802" />
+                </node>
+        <node id="CharacterCreationSkinColor"> 
+                    <attribute id="DisplayName" type="TranslatedString" handle="h5abg3c579g5d7b4ea0302696cbc54215a3d8" version="1" />
+                    <attribute id="MaterialPresetUUID" type="guid" value="34c5a20c-7bd8-f20c-d711-2af84d5b9704" />
+                    <attribute id="Name" type="FixedString" value="HBGBL_Harrowed_01" /> 
+                    <attribute id="UIColor" type="LSString" value="#FF514652" /> 
+                    <attribute id="UUID" type="guid" value="5d15b3c0-1eeb-473c-96f0-b2c90490d268" />
+                </node>
+        <node id="CharacterCreationSkinColor"> 
+                    <attribute id="DisplayName" type="TranslatedString" handle="h4g454471gff1343df7cca7768a36e30f6c92" version="1" />
+                    <attribute id="MaterialPresetUUID" type="guid" value="97585908-24a0-4d6f-3d77-e8410445dcbf" />
+                    <attribute id="Name" type="FixedString" value="HBGBL_Harrowed_02" /> 
+                    <attribute id="UIColor" type="LSString" value="#FF493E4D" /> 
+                    <attribute id="UUID" type="guid" value="994aa159-a20f-40d0-b676-a7310957d0d2" />
+                </node>
+        <node id="CharacterCreationSkinColor"> 
+                    <attribute id="DisplayName" type="TranslatedString" handle="h88257118506b733g9cdfbgef443b6ba918f0" version="1" />
+                    <attribute id="MaterialPresetUUID" type="guid" value="87545d44-3708-f7c6-5de7-69f9196238f1" />
+                    <attribute id="Name" type="FixedString" value="HBGBL_Harrowed_03" /> 
+                    <attribute id="UIColor" type="LSString" value="#FF3E3840" /> 
+                    <attribute id="UUID" type="guid" value="099ae1f9-9ad9-4417-be72-bbdd6272b795" />
+                </node>
+        <node id="CharacterCreationSkinColor"> 
+                    <attribute id="DisplayName" type="TranslatedString" handle="hab401eb5g804f3c909e52ae0ffb046cd605f" version="1" />
+                    <attribute id="MaterialPresetUUID" type="guid" value="43925ed7-eb3f-0e32-9c1e-b2a3283bf88e" />
+                    <attribute id="Name" type="FixedString" value="HBGBL_Harrowed_04" /> 
+                    <attribute id="UIColor" type="LSString" value="#FF3B363F" /> 
+                    <attribute id="UUID" type="guid" value="94e68d63-1063-480d-ba1b-fee1bb808943" />
+                </node>
+        <node id="CharacterCreationSkinColor"> 
+                    <attribute id="DisplayName" type="TranslatedString" handle="h9beb716da891ac3gc5gca46d66afdg9ecd84" version="1" />
+                    <attribute id="MaterialPresetUUID" type="guid" value="0a51a866-2233-e378-1a21-55d4aab26b83" />
+                    <attribute id="Name" type="FixedString" value="HBGBL_Harrowed_05" /> 
+                    <attribute id="UIColor" type="LSString" value="#FF35333C" /> 
+                    <attribute id="UUID" type="guid" value="5e770740-67a5-4b8e-865c-a34d4ab83def" />
+                </node>
+        <node id="CharacterCreationSkinColor"> 
+                    <attribute id="DisplayName" type="TranslatedString" handle="h1b1cfad9971edcfd53816bce0g37gb3fdcd3" version="1" />
+                    <attribute id="MaterialPresetUUID" type="guid" value="5f0f8c83-95ab-3c64-fec0-1775de8c60b8" />
+                    <attribute id="Name" type="FixedString" value="HBGBL_Harrowed_06" /> 
+                    <attribute id="UIColor" type="LSString" value="#FF35313C" /> 
+                    <attribute id="UUID" type="guid" value="aa22cae4-be04-4dad-8de4-c4e4505748ae" />
+                </node>
+        <node id="CharacterCreationSkinColor"> 
+                    <attribute id="DisplayName" type="TranslatedString" handle="h7b30702b18a465bcd71c82f265aa5250aaed" version="1" />
+                    <attribute id="MaterialPresetUUID" type="guid" value="4bf88872-df2f-9fdc-e2df-4419b8be7b6a" />
+                    <attribute id="Name" type="FixedString" value="HBGBL_Harrowed_07" /> 
+                    <attribute id="UIColor" type="LSString" value="#FF34303A" /> 
+                    <attribute id="UUID" type="guid" value="8e2ffe1c-f1d8-482e-a757-14ae083a9dc9" />
+                </node>
+        <node id="CharacterCreationSkinColor"> 
+                    <attribute id="DisplayName" type="TranslatedString" handle="hd2a6eeb0144ed543g18c48afb305a94732ed" version="1" />
+                    <attribute id="MaterialPresetUUID" type="guid" value="2e1608f2-2d12-384c-fa42-e4979334c4f0" />
+                    <attribute id="Name" type="FixedString" value="HBGBL_Harrowed_08" /> 
+                    <attribute id="UIColor" type="LSString" value="#FF312D38" /> 
+                    <attribute id="UUID" type="guid" value="ac0d25e2-450c-4765-b984-36f20b3e9741" />
+                </node>
+        <node id="CharacterCreationSkinColor"> 
+                    <attribute id="DisplayName" type="TranslatedString" handle="h17b2f3ce7g17e374d723398a8g36851c07f6" version="1" />
+                    <attribute id="MaterialPresetUUID" type="guid" value="e82696eb-4763-0551-cdf1-f7a52deab723" />
+                    <attribute id="Name" type="FixedString" value="HBGBL_Harrowed_09" /> 
+                    <attribute id="UIColor" type="LSString" value="#FF292932" /> 
+                    <attribute id="UUID" type="guid" value="33959e4b-16a8-4080-9fae-8a2b7259e29d" />
+                </node>
+        <node id="CharacterCreationSkinColor"> 
+                    <attribute id="DisplayName" type="TranslatedString" handle="hd864262836453f005ef85631605b9986734e" version="1" />
+                    <attribute id="MaterialPresetUUID" type="guid" value="35bc4676-925c-240d-1490-aa05451e023a" />
+                    <attribute id="Name" type="FixedString" value="HBGBL_Harrowed_10" /> 
+                    <attribute id="UIColor" type="LSString" value="#FF28272F" /> 
+                    <attribute id="UUID" type="guid" value="bab5e465-966a-45ec-94cf-7b7496a2f5ad" />
+                </node>
+        <node id="CharacterCreationSkinColor"> 
+                    <attribute id="DisplayName" type="TranslatedString" handle="hef3297c4bdg67ba968fg754f620d9df9e232" version="1" />
+                    <attribute id="MaterialPresetUUID" type="guid" value="8900d393-a03e-a420-e7be-6d58b8015f8f" />
+                    <attribute id="Name" type="FixedString" value="HBGBL_Harrowed_11" /> 
+                    <attribute id="UIColor" type="LSString" value="#FF24232C" /> 
+                    <attribute id="UUID" type="guid" value="e7858bed-5897-4685-9180-af30b583e7a2" />
+                </node>
+        <node id="CharacterCreationSkinColor"> 
+                    <attribute id="DisplayName" type="TranslatedString" handle="h38f70612ba3985a6e968294g4408b995ccec" version="1" />
+                    <attribute id="MaterialPresetUUID" type="guid" value="f0ed08ad-8291-451f-70e3-bbcfce9d8313" />
+                    <attribute id="Name" type="FixedString" value="HBGBL_Harrowed_12" /> 
+                    <attribute id="UIColor" type="LSString" value="#FF21212A" /> 
+                    <attribute id="UUID" type="guid" value="608090e3-b252-4536-b7bc-65ecc458d795" />
+                </node>
+        <node id="CharacterCreationSkinColor"> 
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha7gb4b5134a11c03f0fa27935g71a328g49b" version="1" />
+                    <attribute id="MaterialPresetUUID" type="guid" value="a8acdce2-7d1f-dc70-94be-4b8eb0d23dee" />
+                    <attribute id="Name" type="FixedString" value="HBGBL_Harrowed_13" /> 
+                    <attribute id="UIColor" type="LSString" value="#FF1D1E28" /> 
+                    <attribute id="UUID" type="guid" value="8ec49085-391c-40fc-8df2-92679df66ba2" />
+                </node>
+        <node id="CharacterCreationSkinColor"> 
+                    <attribute id="DisplayName" type="TranslatedString" handle="h516942eba0777fgf76729ac576f6eg514ddf" version="1" />
+                    <attribute id="MaterialPresetUUID" type="guid" value="10b7504e-eb33-ff03-73db-fd2493bb7aed" />
+                    <attribute id="Name" type="FixedString" value="HBGBL_Harrowed_14" /> 
+                    <attribute id="UIColor" type="LSString" value="#FF181A25" /> 
+                    <attribute id="UUID" type="guid" value="168d7e04-95d7-44fc-81cc-64e7a39ad440" />
+                </node>
+        <node id="CharacterCreationSkinColor"> 
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf3ed21ad9gbe3546e6g81a9daf7e7122e3eg" version="1" />
+                    <attribute id="MaterialPresetUUID" type="guid" value="2af1613d-30cd-b100-9c18-5845946fdc7c" />
+                    <attribute id="Name" type="FixedString" value="HBGBL_Harrowed_15" /> 
+                    <attribute id="UIColor" type="LSString" value="#FF161922" /> 
+                    <attribute id="UUID" type="guid" value="0973a868-02b6-473b-9490-ea664550f3e4" />
+                </node>
+        <node id="CharacterCreationSkinColor"> 
+                    <attribute id="DisplayName" type="TranslatedString" handle="hd7b7d04cf1g41g59719ce52e7fg4d8d49af8" version="1" />
+                    <attribute id="MaterialPresetUUID" type="guid" value="2f237dc6-0ae0-2d7c-377b-0b4fffe97c58" />
+                    <attribute id="Name" type="FixedString" value="HBGBL_Silvered_00" /> 
+                    <attribute id="UIColor" type="LSString" value="#FF706162" /> 
+                    <attribute id="UUID" type="guid" value="5dbe3f85-40cf-445c-94ed-7a5b7bb7b38f" />
+                </node>
+        <node id="CharacterCreationSkinColor"> 
+                    <attribute id="DisplayName" type="TranslatedString" handle="h94477c8fb6a830d5ee0185213b7218bgg446" version="1" />
+                    <attribute id="MaterialPresetUUID" type="guid" value="f5dd7245-9a39-e8f4-639a-ca418bfb61bf" />
+                    <attribute id="Name" type="FixedString" value="HBGBL_Silvered_00" /> 
+                    <attribute id="UIColor" type="LSString" value="#FF5B5158" /> 
+                    <attribute id="UUID" type="guid" value="a73a365e-9efb-4c66-aba5-8c3eb69fb044" />
+                </node>
+        <node id="CharacterCreationSkinColor"> 
+                    <attribute id="DisplayName" type="TranslatedString" handle="h51981a94g645cd9dgd4fe4ab914c9044g368" version="1" />
+                    <attribute id="MaterialPresetUUID" type="guid" value="71ffac75-df79-cd37-fc66-67b2a1634874" />
+                    <attribute id="Name" type="FixedString" value="HBGBL_Silvered_01" /> 
+                    <attribute id="UIColor" type="LSString" value="#FF5D5154" /> 
+                    <attribute id="UUID" type="guid" value="4c8b407e-fc58-4e7e-b0e6-2cea6da4f43e" />
+                </node>
+        <node id="CharacterCreationSkinColor"> 
+                    <attribute id="DisplayName" type="TranslatedString" handle="h60ga45dg1343f81a3e07gfcf828b30ae0266" version="1" />
+                    <attribute id="MaterialPresetUUID" type="guid" value="a0de8a3e-4e1d-1cbe-fb3a-25b36e2814fd" />
+                    <attribute id="Name" type="FixedString" value="HBGBL_Silvered_02" /> 
+                    <attribute id="UIColor" type="LSString" value="#FF494249" /> 
+                    <attribute id="UUID" type="guid" value="6d6f2f69-c36c-4e3f-ac32-a986b39b47f6" />
+                </node>
+        <node id="CharacterCreationSkinColor"> 
+                    <attribute id="DisplayName" type="TranslatedString" handle="h7a948dca45f2b33a3826707560a0b09a8986" version="1" />
+                    <attribute id="MaterialPresetUUID" type="guid" value="191e1383-0552-f107-f99e-4c9fcd15c093" />
+                    <attribute id="Name" type="FixedString" value="HBGBL_Silvered_03" /> 
+                    <attribute id="UIColor" type="LSString" value="#FF403C43" /> 
+                    <attribute id="UUID" type="guid" value="e77ca3fa-f11b-4ab2-940a-6cdb517f6081" />
+                </node>
+        <node id="CharacterCreationSkinColor"> 
+                    <attribute id="DisplayName" type="TranslatedString" handle="h944f834e70816078gg7528aa6976efc27dg7" version="1" />
+                    <attribute id="MaterialPresetUUID" type="guid" value="30cdeeb3-06d4-f701-cd6e-96563bdaff53" />
+                    <attribute id="Name" type="FixedString" value="HBGBL_Silvered_04" /> 
+                    <attribute id="UIColor" type="LSString" value="#FF3D383D" /> 
+                    <attribute id="UUID" type="guid" value="00f5b189-a4ff-4c94-8526-8c6678241f00" />
+                </node>
+        <node id="CharacterCreationSkinColor"> 
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha7e14735gea4695d358beb0dceg861e3598c" version="1" />
+                    <attribute id="MaterialPresetUUID" type="guid" value="d6afde68-a74f-e659-3b6e-448d7b83e112" />
+                    <attribute id="Name" type="FixedString" value="HBGBL_Silvered_05" /> 
+                    <attribute id="UIColor" type="LSString" value="#FF2F2F39" /> 
+                    <attribute id="UUID" type="guid" value="c6e7c23d-4ce1-4cb1-8706-492818ea97b1" />
+                </node>
+        <node id="CharacterCreationSkinColor"> 
+                    <attribute id="DisplayName" type="TranslatedString" handle="h1cad848c02bc88051e0061f2da7db555d1g3" version="1" />
+                    <attribute id="MaterialPresetUUID" type="guid" value="3bb7eca5-9aa4-292d-9afd-89422a988b43" />
+                    <attribute id="Name" type="FixedString" value="HBGBL_Silvered_06" /> 
+                    <attribute id="UIColor" type="LSString" value="#FF332F36" /> 
+                    <attribute id="UUID" type="guid" value="a8ede476-7c28-412e-9cd6-216df1b806b3" />
+                </node>
+        <node id="CharacterCreationSkinColor"> 
+                    <attribute id="DisplayName" type="TranslatedString" handle="h8e94d6gfe58f5c674654c47840505f67348c" version="1" />
+                    <attribute id="MaterialPresetUUID" type="guid" value="462a2ef0-8e7a-995e-996a-c1402a3a6a1b" />
+                    <attribute id="Name" type="FixedString" value="HBGBL_Silvered_07" /> 
+                    <attribute id="UIColor" type="LSString" value="#FF312D35" /> 
+                    <attribute id="UUID" type="guid" value="d01bad5d-4c24-47ce-ac09-1dc94adbd22b" />
+                </node>
+        <node id="CharacterCreationSkinColor"> 
+                    <attribute id="DisplayName" type="TranslatedString" handle="hb8629f9e5b9fd671f7ed20cce67964de9b49" version="1" />
+                    <attribute id="MaterialPresetUUID" type="guid" value="72de1b67-eb08-e7bd-cc4d-f47bcb6ef8bf" />
+                    <attribute id="Name" type="FixedString" value="HBGBL_Silvered_08" /> 
+                    <attribute id="UIColor" type="LSString" value="#FF23242E" /> 
+                    <attribute id="UUID" type="guid" value="8810747c-39e0-47f1-8483-20688a7a98c9" />
+                </node>
+        <node id="CharacterCreationSkinColor"> 
+                    <attribute id="DisplayName" type="TranslatedString" handle="h1907cb04b770b499db85gb8556ae0169e8af" version="1" />
+                    <attribute id="MaterialPresetUUID" type="guid" value="3acecb84-0f20-7cd9-06c6-362c20d16f5e" />
+                    <attribute id="Name" type="FixedString" value="HBGBL_Silvered_09" /> 
+                    <attribute id="UIColor" type="LSString" value="#FF27272F" /> 
+                    <attribute id="UUID" type="guid" value="107d7fe8-65d1-4b16-867d-c55c316f1d21" />
+                </node>
+        <node id="CharacterCreationSkinColor"> 
+                    <attribute id="DisplayName" type="TranslatedString" handle="hagabff8f7f54762718c475g65df7baa146b4" version="1" />
+                    <attribute id="MaterialPresetUUID" type="guid" value="1d4105b3-53f3-48b0-db89-992737abb5b0" />
+                    <attribute id="Name" type="FixedString" value="HBGBL_Silvered_10" /> 
+                    <attribute id="UIColor" type="LSString" value="#FF26262C" /> 
+                    <attribute id="UUID" type="guid" value="6d214db4-3370-4294-aba4-0a1e9128b85a" />
+                </node>
+        <node id="CharacterCreationSkinColor"> 
+                    <attribute id="DisplayName" type="TranslatedString" handle="hdad9g28485c0f26d8362b2e65fegc9a88408" version="1" />
+                    <attribute id="MaterialPresetUUID" type="guid" value="7477532e-263b-b3bd-09b1-765027f56115" />
+                    <attribute id="Name" type="FixedString" value="HBGBL_Silvered_11" /> 
+                    <attribute id="UIColor" type="LSString" value="#FF25262C" /> 
+                    <attribute id="UUID" type="guid" value="d4ec4936-98ec-4845-aac0-21aea44c180c" />
+                </node>
+        <node id="CharacterCreationSkinColor"> 
+                    <attribute id="DisplayName" type="TranslatedString" handle="h6agf8818bad4dcdf1a694gbd37a8787e2e21" version="1" />
+                    <attribute id="MaterialPresetUUID" type="guid" value="568b5cb1-f26b-5ed6-9a18-48946b33e06c" />
+                    <attribute id="Name" type="FixedString" value="HBGBL_Silvered_12" /> 
+                    <attribute id="UIColor" type="LSString" value="#FF222229" /> 
+                    <attribute id="UUID" type="guid" value="3454cb68-1673-42b5-a981-232a35442e37" />
+                </node>
+        <node id="CharacterCreationSkinColor"> 
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha76428cac1051adc2e12b50g447a89fb8122" version="1" />
+                    <attribute id="MaterialPresetUUID" type="guid" value="ea906b01-d01f-e27f-0c6a-a3407e11307f" />
+                    <attribute id="Name" type="FixedString" value="HBGBL_Silvered_13" /> 
+                    <attribute id="UIColor" type="LSString" value="#FF1F2028" /> 
+                    <attribute id="UUID" type="guid" value="c97960db-887c-4f61-80b1-9db0dc56200d" />
+                </node>
+        <node id="CharacterCreationSkinColor"> 
+                    <attribute id="DisplayName" type="TranslatedString" handle="h8e701aae2e37719cbg757cbef0f8ab6b03da" version="1" />
+                    <attribute id="MaterialPresetUUID" type="guid" value="32f8b358-ca69-ddc9-c407-05a450253153" />
+                    <attribute id="Name" type="FixedString" value="HBGBL_Silvered_14" /> 
+                    <attribute id="UIColor" type="LSString" value="#FF1E1F26" /> 
+                    <attribute id="UUID" type="guid" value="bcc46bdc-714c-41a1-bd6d-b36ee4e04649" />
+                </node>
+        <node id="CharacterCreationSkinColor"> 
+                    <attribute id="DisplayName" type="TranslatedString" handle="h76b3240903d4df5ca7334f9da65g35c301eb" version="1" />
+                    <attribute id="MaterialPresetUUID" type="guid" value="2d833adf-7230-3a73-4dfc-5b5590ad8b68" />
+                    <attribute id="Name" type="FixedString" value="HBGBL_Silvered_15" /> 
+                    <attribute id="UIColor" type="LSString" value="#FF181B23" /> 
+                    <attribute id="UUID" type="guid" value="b5519e38-3a0a-4a05-a773-981fa7ec93d4" />
+                </node>
+      </children>
+    </node>
+  </region>
+</save>
