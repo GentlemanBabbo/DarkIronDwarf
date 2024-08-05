@@ -1626,7 +1626,7 @@
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="RemapperSlotId" type="FixedString" value="" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
-					<attribute id="SkeletonResource" type="FixedString" value="30d2566a-fcd1-1334-d0a8-aafb0bcbb6f4" />
+					<attribute id="SkeletonResource" type="FixedString" value="da0cd67f-5172-cd00-b9f1-cfdde0ebb6e6" />
 					<attribute id="SkeletonSlot" type="FixedString" value="1" />
 					<attribute id="Slot" type="FixedString" value="Head" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
