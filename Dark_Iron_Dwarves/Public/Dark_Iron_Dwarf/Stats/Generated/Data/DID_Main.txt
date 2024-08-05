@@ -29,6 +29,7 @@ new entry "Passive_DungeonDelver"
 type "PassiveData"
 data "DisplayName" "hbed97d83ga84bg41d6ga59eg3619ccc64e7f;1"
 data "Description" "h1877a367g8163g4dfbg8ef5ga5e13aac1ac6;2"
+data "Icon" "PassiveFeature_Duergar_DuergarResilience"
 data "DescriptionParams" "Distance(10.5)"
 data "Boosts" "ActionResource(Movement, 1.5, 0)"
 
